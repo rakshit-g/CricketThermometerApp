@@ -1,0 +1,5 @@
+com/example/cricketthermometer/BuildConfig.java
+ com.example.cricketthermometer.BuildConfig
+com/example/cricketthermometer/MainActivity.java
+ com.example.cricketthermometer.MainActivity
+ com.example.cricketthermometer.MainActivity$1
